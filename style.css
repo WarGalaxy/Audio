@@ -1,0 +1,35 @@
+body
+{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background: #505556;
+}
+
+.header_div
+  {
+  background: #ffffff81;
+  color: #fcfcfc; 
+  }
+
+  .header_div p{
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
+  .copy_right_footer {
+   position: fixed;
+   color: #ffffff;
+   bottom: 0;
+   width: 100%;
+   font-size: 22px;
+   background-color: #ffffff81;
+   line-height: 3;
+   text-align: center;
+   text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
